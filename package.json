@@ -1,0 +1,21 @@
+{
+  "name": "dada-website",
+  "version": "1.0.0",
+  "description": "A simple website for dada",
+  "main": "gulpfile.mjs",
+  "scripts": {
+    "start": "python server.py"
+  },
+  "author": "Daksh",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-uglify": "^3.0.2",
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^4.3.0",
+    "gulp-htmlmin": "^5.0.1"
+  }
+}
